@@ -3,6 +3,7 @@ def sum(n):
         return 1
     else:
         return(n+ sum(n-1))
-sum(5)
+print(sum(5))
+
          
     # Write code here
