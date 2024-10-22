@@ -27,4 +27,13 @@
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
