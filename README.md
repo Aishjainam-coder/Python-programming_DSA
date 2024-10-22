@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
