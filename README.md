@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3533-snake-in-matrix](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/3533-snake-in-matrix) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
