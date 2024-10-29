@@ -12,6 +12,7 @@
 | [0010-regular-expression-matching](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0058-length-of-last-word) |
 | [3533-snake-in-matrix](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
