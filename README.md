@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3533-snake-in-matrix](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/3533-snake-in-matrix) |
@@ -40,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
