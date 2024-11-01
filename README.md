@@ -14,6 +14,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0344-reverse-string) |
 | [3533-snake-in-matrix](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
