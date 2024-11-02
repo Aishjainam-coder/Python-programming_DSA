@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -32,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
@@ -44,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
