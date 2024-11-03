@@ -43,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3533-snake-in-matrix](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/3533-snake-in-matrix) |
 ## Math
 |  |
