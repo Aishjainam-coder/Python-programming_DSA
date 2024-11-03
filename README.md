@@ -16,6 +16,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0344-reverse-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1894-merge-strings-alternately) |
 | [3533-snake-in-matrix](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/3533-snake-in-matrix) |
 ## Backtracking
@@ -48,6 +49,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
