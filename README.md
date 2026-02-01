@@ -75,4 +75,5 @@
 | ------- |
 | [0607-sales-person](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0619-biggest-single-number) |
+| [1193-monthly-transactions-i](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
