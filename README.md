@@ -76,6 +76,7 @@
 | [0607-sales-person](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1193-monthly-transactions-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aishjainam-coder/Python-programming_DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
